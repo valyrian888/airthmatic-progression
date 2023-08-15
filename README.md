@@ -1,1 +1,1 @@
-# airthmatic-progression
+# arithmetic-progression
